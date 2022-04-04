@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include fabtex *.css
+recursive-include fabtex *.csv
+recursive-include fabtex *.html
+recursive-include fabtex *.ico
+recursive-include fabtex *.js
+recursive-include fabtex *.json
+recursive-include fabtex *.md
+recursive-include fabtex *.png
+recursive-include fabtex *.py
+recursive-include fabtex *.svg
+recursive-include fabtex *.txt
+recursive-exclude fabtex *.pyc
