@@ -32,6 +32,12 @@ app_license = "MIT"
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
+doctype_js = {"Sales Invoice" : "fabtex/custom/js/sales_invoice.js",
+"Sales Order":"fabtex/custom/js/sales_order.js",
+"Delivery Note":"fabtex/custom/js/delivery_note.js",
+"Purchase Invoice":"fabtex/custom/js/purchase_invoice.js",
+"Purchase Order":"fabtex/custom/js/purchase_order.js",
+"Purchase Receipt":"fabtex/custom/js/purchase_receipt.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
