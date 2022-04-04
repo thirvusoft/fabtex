@@ -1,12 +1,12 @@
 var tax_category
 var tax_and_charges
 var main_data
-frappe.ui.form.on("Sales Invoice",{
+frappe.ui.form.on("Purchase Receipt",{
 	onload:function(frm,cdt,cdn){
 		main_data=locals[cdt][cdn]
 	}
 })
-frappe.ui.form.on("Sales Invoice Item",{
+frappe.ui.form.on("Purchase Receipt Item",{
 	item_code:function(frm,cdt,cdn){
 		var data = locals[cdt][cdn]
 		var item_code=data.item_code
