@@ -25,14 +25,22 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 105,
+=======
+   "idx": 190,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "net_total",
+=======
+   "insert_after": "language",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "label": "GST Details",
    "length": 0,
    "mandatory_depends_on": null,
@@ -85,14 +93,22 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 109,
+=======
+   "idx": 191,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "column_break_107",
+=======
+   "insert_after": "gst_section",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "label": "GST Category",
    "length": 25,
    "mandatory_depends_on": null,
@@ -145,7 +161,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 233,
+=======
+   "idx": 234,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -205,7 +225,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 238,
+=======
+   "idx": 239,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -265,7 +289,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 246,
+=======
+   "idx": 247,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -325,7 +353,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 230,
+=======
+   "idx": 231,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -385,7 +417,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 235,
+=======
+   "idx": 236,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -445,7 +481,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 245,
+=======
+   "idx": 246,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -505,7 +545,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 243,
+=======
+   "idx": 244,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -565,7 +609,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 248,
+=======
+   "idx": 249,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -625,7 +673,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 247,
+=======
+   "idx": 248,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -685,7 +737,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 55,
+=======
+   "idx": 56,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -745,7 +801,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 64,
+=======
+   "idx": 65,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -805,7 +865,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 65,
+=======
+   "idx": 66,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -865,7 +929,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 68,
+=======
+   "idx": 69,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -925,7 +993,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 183,
+=======
+   "idx": 182,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -985,7 +1057,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 184,
+=======
+   "idx": 183,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1045,7 +1121,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 236,
+=======
+   "idx": 237,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1105,7 +1185,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 228,
+=======
+   "idx": 229,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1165,7 +1249,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 241,
+=======
+   "idx": 242,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1225,7 +1313,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 253,
+=======
+   "idx": 254,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1285,7 +1377,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 227,
+=======
+   "idx": 228,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1345,7 +1441,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 251,
+=======
+   "idx": 252,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1405,7 +1505,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 252,
+=======
+   "idx": 253,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1465,7 +1569,11 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 242,
+=======
+   "idx": 243,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1475,6 +1583,15 @@
    "insert_after": "lr_no",
    "label": "Mode of Transport",
    "length": 5,
+<<<<<<< HEAD
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:09.561487",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-mode_of_transport",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": "\nRoad\nAir\nRail\nShip",
+=======
    "mandatory_depends_on": null,
    "modified": "2022-04-05 13:14:09.561487",
    "modified_by": "Administrator",
@@ -1525,7 +1642,7 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 229,
+   "idx": 230,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1585,7 +1702,7 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 240,
+   "idx": 241,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1645,7 +1762,7 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 237,
+   "idx": 238,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1705,7 +1822,7 @@
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 13,
+   "idx": 14,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
@@ -1782,6 +1899,7 @@
    "no_copy": 1,
    "non_negative": 0,
    "options": null,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -1796,7 +1914,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-   "translatable": 1,
+   "translatable": 0,
    "unique": 0,
    "width": null
   },
@@ -1811,27 +1929,52 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:09.664629",
+   "default": null,
+   "depends_on": null,
+=======
    "creation": "2022-04-05 13:14:10.190294",
    "default": null,
    "depends_on": "eval: doc.irn",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
-   "fetch_from": null,
+   "fetch_from": "driver.full_name",
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "driver_name",
+   "fieldtype": "Small Text",
+=======
    "fieldname": "irn_cancelled",
    "fieldtype": "Check",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 229,
+=======
    "idx": 8,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "driver",
+   "label": "Driver Name",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:09.664629",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-driver_name",
+   "no_copy": 0,
+=======
    "insert_after": "ref_practitioner",
    "label": "IRN Cancelled",
    "length": 0,
@@ -1840,6 +1983,7 @@
    "modified_by": "Administrator",
    "name": "Sales Invoice-irn_cancelled",
    "no_copy": 1,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "non_negative": 0,
    "options": null,
    "owner": "Administrator",
@@ -1856,7 +2000,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-   "translatable": 1,
+   "translatable": 0,
    "unique": 0,
    "width": null
   },
@@ -1871,27 +2015,52 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:09.771032",
+   "default": "Today",
+   "depends_on": null,
+=======
    "creation": "2022-04-05 13:14:10.296604",
    "default": null,
    "depends_on": "ewaybill",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "lr_date",
+   "fieldtype": "Date",
+=======
    "fieldname": "eway_bill_validity",
    "fieldtype": "Data",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 14,
+<<<<<<< HEAD
+   "idx": 240,
+=======
+   "idx": 15,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "irn_cancel_date",
+   "label": "Transport Receipt Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:09.771032",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-lr_date",
+   "no_copy": 0,
+=======
    "insert_after": "ewaybill",
    "label": "E-Way Bill Validity",
    "length": 0,
@@ -1900,6 +2069,7 @@
    "modified_by": "Administrator",
    "name": "Sales Invoice-eway_bill_validity",
    "no_copy": 1,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "non_negative": 0,
    "options": null,
    "owner": "Administrator",
@@ -1931,27 +2101,52 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:09.877017",
+   "default": "Regular",
+   "depends_on": "eval:(doc.mode_of_transport === \"Road\")",
+=======
    "creation": "2022-04-05 13:14:10.410971",
    "default": null,
    "depends_on": "eval:(doc.eway_bill_cancelled === 1)",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "gst_vehicle_type",
+   "fieldtype": "Select",
+=======
    "fieldname": "eway_bill_cancelled",
    "fieldtype": "Check",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 237,
+=======
    "idx": 10,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "gst_transporter_id",
+   "label": "GST Vehicle Type",
+   "length": 30,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:09.877017",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-gst_vehicle_type",
+   "no_copy": 0,
+=======
    "insert_after": "irn",
    "label": "E-Way Bill Cancelled",
    "length": 0,
@@ -1960,8 +2155,9 @@
    "modified_by": "Administrator",
    "name": "Sales Invoice-eway_bill_cancelled",
    "no_copy": 1,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "non_negative": 0,
-   "options": null,
+   "options": "Regular\nOver Dimensional Cargo (ODC)",
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -1976,7 +2172,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-   "translatable": 1,
+   "translatable": 0,
    "unique": 0,
    "width": null
   },
@@ -1986,32 +2182,55 @@
    "_liked_by": null,
    "_user_tags": null,
    "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
+   "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:09.981174",
+=======
    "creation": "2022-04-05 13:14:10.521737",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
-   "depends_on": null,
+   "depends_on": "eval:((doc.docstatus === 1 || doc.ewaybill) && doc.eway_bill_cancelled === 0)",
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "ewaybill",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 13,
+=======
    "fieldname": "einvoice_section",
    "fieldtype": "Section Break",
    "hidden": 1,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 231,
+   "idx": 232,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "tax_id",
+   "label": "E-Way Bill No.",
+   "length": 20,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:09.981174",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ewaybill",
+=======
    "insert_after": "ecommerce_gstin",
    "label": "E-Invoice Fields",
    "length": 0,
@@ -2019,6 +2238,7 @@
    "modified": "2022-04-05 13:14:10.521737",
    "modified_by": "Administrator",
    "name": "Sales Invoice-einvoice_section",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -2028,6 +2248,172 @@
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.084402",
+=======
+   "creation": "2022-04-05 13:14:10.629370",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": "eval:in_list([\"Registered Regular\", \"SEZ\", \"Overseas\", \"Deemed Export\"], doc.gst_category) && doc.irn_cancelled === 0",
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "irn",
+=======
+   "fieldname": "ack_no",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "fieldtype": "Data",
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 9,
+=======
+   "idx": 227,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "irn_cancelled",
+   "label": "IRN",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.084402",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-irn",
+=======
+   "insert_after": "ack_date",
+   "label": "Ack. No.",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.629370",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ack_no",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 1,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 1,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.190294",
+=======
+   "creation": "2022-04-05 13:14:10.737609",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": "eval: doc.irn",
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "irn_cancelled",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 8,
+=======
+   "fieldname": "ack_date",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 226,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "ref_practitioner",
+   "label": "IRN Cancelled",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.190294",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-irn_cancelled",
+=======
+   "insert_after": "against_income_account",
+   "label": "Ack. Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.737609",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ack_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
    "print_hide": 1,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -2046,152 +2432,53 @@
    "_liked_by": null,
    "_user_tags": null,
    "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
+   "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-   "creation": "2022-04-05 13:14:10.629370",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "ack_no",
-   "fieldtype": "Data",
-   "hidden": 1,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 226,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
-   "insert_after": "ack_date",
-   "label": "Ack. No.",
-   "length": 0,
-   "mandatory_depends_on": null,
-   "modified": "2022-04-05 13:14:10.629370",
-   "modified_by": "Administrator",
-   "name": "Sales Invoice-ack_no",
-   "no_copy": 1,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 1,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 1,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 1,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2022-04-05 13:14:10.737609",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "ack_date",
-   "fieldtype": "Data",
-   "hidden": 1,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 225,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
-   "insert_after": "against_income_account",
-   "label": "Ack. Date",
-   "length": 0,
-   "mandatory_depends_on": null,
-   "modified": "2022-04-05 13:14:10.737609",
-   "modified_by": "Administrator",
-   "name": "Sales Invoice-ack_date",
-   "no_copy": 1,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 1,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 1,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 1,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.296604",
+=======
    "creation": "2022-04-05 13:14:10.844407",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
-   "depends_on": null,
+   "depends_on": "ewaybill",
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "eway_bill_validity",
+=======
    "fieldname": "irn_cancel_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 1,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 239,
+<<<<<<< HEAD
+   "idx": 14,
+=======
+   "idx": 240,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "ewaybill",
+   "label": "E-Way Bill Validity",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.296604",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-eway_bill_validity",
+=======
    "insert_after": "invoice_copy",
    "label": "Cancel Date",
    "length": 0,
@@ -2199,6 +2486,7 @@
    "modified": "2022-04-05 13:14:10.844407",
    "modified_by": "Administrator",
    "name": "Sales Invoice-irn_cancel_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 1,
    "non_negative": 0,
    "options": null,
@@ -2226,32 +2514,55 @@
    "_liked_by": null,
    "_user_tags": null,
    "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
+   "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.410971",
+=======
    "creation": "2022-04-05 13:14:10.955471",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
-   "depends_on": null,
+   "depends_on": "eval:(doc.eway_bill_cancelled === 1)",
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "eway_bill_cancelled",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 10,
+=======
    "fieldname": "signed_einvoice",
    "fieldtype": "Code",
    "hidden": 1,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 249,
+   "idx": 250,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "irn",
+   "label": "E-Way Bill Cancelled",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.410971",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-eway_bill_cancelled",
+=======
    "insert_after": "shipping_bill_number",
    "label": "Signed E-Invoice",
    "length": 0,
@@ -2259,6 +2570,7 @@
    "modified": "2022-04-05 13:14:10.955471",
    "modified_by": "Administrator",
    "name": "Sales Invoice-signed_einvoice",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 1,
    "non_negative": 0,
    "options": "JSON",
@@ -2291,7 +2603,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.521737",
+=======
    "creation": "2022-04-05 13:14:11.062864",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2299,6 +2615,432 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "einvoice_section",
+   "fieldtype": "Section Break",
+=======
+   "fieldname": "signed_qr_code",
+   "fieldtype": "Code",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 231,
+=======
+   "idx": 251,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "ecommerce_gstin",
+   "label": "E-Invoice Fields",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.521737",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-einvoice_section",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+=======
+   "insert_after": "signed_einvoice",
+   "label": "Signed QRCode",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:11.062864",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-signed_qr_code",
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": "JSON",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 1,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.629370",
+=======
+   "creation": "2022-04-05 13:14:11.171513",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "ack_no",
+   "fieldtype": "Data",
+=======
+   "fieldname": "qrcode_image",
+   "fieldtype": "Attach Image",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 226,
+=======
+   "idx": 245,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "ack_date",
+   "label": "Ack. No.",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.629370",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ack_no",
+=======
+   "insert_after": "port_code",
+   "label": "QRCode",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:11.171513",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-qrcode_image",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 1,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.737609",
+=======
+   "creation": "2022-04-05 13:14:11.278652",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "ack_date",
+   "fieldtype": "Data",
+=======
+   "fieldname": "einvoice_status",
+   "fieldtype": "Select",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 225,
+=======
+   "idx": 233,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "against_income_account",
+   "label": "Ack. Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.737609",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ack_date",
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": null,
+=======
+   "insert_after": "einvoice_section",
+   "label": "E-Invoice Status",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:11.278652",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-einvoice_status",
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": "\nPending\nGenerated\nCancelled\nFailed",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 1,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.844407",
+=======
+   "creation": "2022-04-05 13:14:11.410140",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "irn_cancel_date",
+   "fieldtype": "Data",
+=======
+   "fieldname": "failure_description",
+   "fieldtype": "Code",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 239,
+=======
+   "idx": 235,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "invoice_copy",
+   "label": "Cancel Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.844407",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-irn_cancel_date",
+=======
+   "insert_after": "export_type",
+   "label": "E-Invoice Failure Description",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:11.410140",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-failure_description",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": "JSON",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 1,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:10.955471",
+=======
+   "creation": "2022-04-05 13:14:34.123891",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "signed_einvoice",
+   "fieldtype": "Code",
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 249,
+=======
+   "fieldname": "patient",
+   "fieldtype": "Link",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 4,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "shipping_bill_number",
+   "label": "Signed E-Invoice",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:10.955471",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-signed_einvoice",
+   "no_copy": 1,
+   "non_negative": 0,
+   "options": "JSON",
+=======
+   "insert_after": "naming_series",
+   "label": "Patient",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:34.123891",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-patient",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": "Patient",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 1,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-05 13:14:11.062864",
+=======
+   "creation": "2022-04-05 13:14:34.240959",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": "patient.patient_name",
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "signed_qr_code",
    "fieldtype": "Code",
    "hidden": 1,
@@ -2306,12 +3048,22 @@
    "hide_days": 0,
    "hide_seconds": 0,
    "idx": 250,
+=======
+   "fieldname": "patient_name",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 5,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "signed_einvoice",
    "label": "Signed QRCode",
    "length": 0,
@@ -2380,6 +3132,16 @@
    "modified_by": "Administrator",
    "name": "Sales Invoice-qrcode_image",
    "no_copy": 1,
+=======
+   "insert_after": "patient",
+   "label": "Patient Name",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:34.240959",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-patient_name",
+   "no_copy": 0,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "non_negative": 0,
    "options": null,
    "owner": "Administrator",
@@ -2388,7 +3150,7 @@
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
-   "print_hide": 1,
+   "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 1,
@@ -2411,7 +3173,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-05 13:14:11.278652",
+=======
+   "creation": "2022-04-05 13:14:34.352634",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2419,6 +3185,7 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "einvoice_status",
    "fieldtype": "Select",
    "hidden": 1,
@@ -2540,18 +3307,26 @@
    "fetch_from": null,
    "fetch_if_empty": 0,
    "fieldname": "patient",
+=======
+   "fieldname": "ref_practitioner",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Link",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 4,
+=======
+   "idx": 7,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "naming_series",
    "label": "Patient",
    "length": 0,
@@ -2562,6 +3337,18 @@
    "no_copy": 0,
    "non_negative": 0,
    "options": "Patient",
+=======
+   "insert_after": "customer",
+   "label": "Referring Practitioner",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-05 13:14:34.352634",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ref_practitioner",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": "Healthcare Practitioner",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2591,27 +3378,43 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-05 13:14:34.240959",
+=======
+   "creation": "2022-04-12 16:52:10.697437",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
    "docstatus": 0,
    "dt": "Sales Invoice",
+<<<<<<< HEAD
    "fetch_from": "patient.patient_name",
    "fetch_if_empty": 0,
    "fieldname": "patient_name",
    "fieldtype": "Data",
+=======
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+   "fieldname": "section_break_34",
+   "fieldtype": "Section Break",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 5,
+=======
+   "idx": 41,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "patient",
    "label": "Patient Name",
    "length": 0,
@@ -2619,6 +3422,15 @@
    "modified": "2022-04-05 13:14:34.240959",
    "modified_by": "Administrator",
    "name": "Sales Invoice-patient_name",
+=======
+   "insert_after": "po_date",
+   "label": null,
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:52:10.697437",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-section_break_34",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -2631,7 +3443,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-   "read_only": 1,
+   "read_only": 0,
    "read_only_depends_on": null,
    "report_hide": 0,
    "reqd": 0,
@@ -2651,7 +3463,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-05 13:14:34.352634",
+=======
+   "creation": "2022-04-12 16:53:03.293045",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2659,19 +3475,29 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ref_practitioner",
    "fieldtype": "Link",
+=======
+   "fieldname": "suppliers_ref",
+   "fieldtype": "Data",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 7,
+=======
+   "idx": 42,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "customer",
    "label": "Referring Practitioner",
    "length": 0,
@@ -2682,6 +3508,18 @@
    "no_copy": 0,
    "non_negative": 0,
    "options": "Healthcare Practitioner",
+=======
+   "insert_after": "section_break_34",
+   "label": "Suppliers Ref",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:53:03.293045",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-suppliers_ref",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2689,6 +3527,7 @@
    "permlevel": 0,
    "precision": "",
    "print_hide": 0,
+<<<<<<< HEAD
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -2749,6 +3588,8 @@
    "permlevel": 0,
    "precision": "",
    "print_hide": 0,
+=======
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -2756,7 +3597,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-   "translatable": 0,
+   "translatable": 1,
    "unique": 0,
    "width": null
   },
@@ -2771,7 +3612,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-12 16:53:03.293045",
+=======
+   "creation": "2022-04-12 16:54:06.883783",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2779,19 +3624,28 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "suppliers_ref",
+=======
+   "fieldname": "other_references",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 41,
+=======
+   "idx": 43,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "section_break_34",
    "label": "Suppliers Ref",
    "length": 0,
@@ -2799,59 +3653,7 @@
    "modified": "2022-04-12 16:53:03.293045",
    "modified_by": "Administrator",
    "name": "Sales Invoice-suppliers_ref",
-   "no_copy": 0,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 1,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2022-04-12 16:54:06.883783",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "other_references",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 42,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
+=======
    "insert_after": "suppliers_ref",
    "label": "Other References",
    "length": 0,
@@ -2859,6 +3661,7 @@
    "modified": "2022-04-12 16:54:06.883783",
    "modified_by": "Administrator",
    "name": "Sales Invoice-other_references",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -2891,7 +3694,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:54:06.883783",
+=======
    "creation": "2022-04-12 16:54:07.691227",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2899,19 +3706,36 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "other_references",
+=======
    "fieldname": "despatch_document_no",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 43,
+<<<<<<< HEAD
+   "idx": 42,
+=======
+   "idx": 44,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "suppliers_ref",
+   "label": "Other References",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:54:06.883783",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-other_references",
+=======
    "insert_after": "other_references",
    "label": "Despatch Document No",
    "length": 0,
@@ -2919,6 +3743,7 @@
    "modified": "2022-04-12 16:54:07.691227",
    "modified_by": "Administrator",
    "name": "Sales Invoice-despatch_document_no",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -2951,7 +3776,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:54:07.691227",
+=======
    "creation": "2022-04-12 16:56:12.708840",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2959,19 +3788,36 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "despatch_document_no",
+=======
    "fieldname": "despatch_through",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 44,
+<<<<<<< HEAD
+   "idx": 43,
+=======
+   "idx": 45,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "other_references",
+   "label": "Despatch Document No",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:54:07.691227",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-despatch_document_no",
+=======
    "insert_after": "despatch_document_no",
    "label": "Despatch through",
    "length": 0,
@@ -2979,6 +3825,7 @@
    "modified": "2022-04-12 16:56:12.708840",
    "modified_by": "Administrator",
    "name": "Sales Invoice-despatch_through",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3011,7 +3858,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:56:12.708840",
+=======
    "creation": "2022-04-12 16:58:57.604502",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3019,19 +3870,37 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "despatch_through",
+   "fieldtype": "Data",
+=======
    "fieldname": "123",
    "fieldtype": "Column Break",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 46,
+<<<<<<< HEAD
+   "idx": 44,
+=======
+   "idx": 47,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "despatch_document_no",
+   "label": "Despatch through",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:56:12.708840",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-despatch_through",
+=======
    "insert_after": "g_r_no_",
    "label": "",
    "length": 0,
@@ -3039,6 +3908,90 @@
    "modified": "2022-04-12 16:58:57.604502",
    "modified_by": "Administrator",
    "name": "Sales Invoice-123",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:58:57.604502",
+=======
+   "creation": "2022-04-12 16:58:58.269381",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "123",
+   "fieldtype": "Column Break",
+=======
+   "fieldname": "vessel_flight_no",
+   "fieldtype": "Data",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 46,
+=======
+   "idx": 48,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "g_r_no_",
+   "label": "",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:58:57.604502",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-123",
+=======
+   "insert_after": "123",
+   "label": "Vessel/Flight No",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:58:58.269381",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-vessel_flight_no",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3071,7 +4024,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-12 16:58:58.269381",
+=======
+   "creation": "2022-04-12 16:58:58.896649",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3079,19 +4036,28 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "vessel_flight_no",
+=======
+   "fieldname": "city_port_of_loading",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 47,
+=======
+   "idx": 49,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "123",
    "label": "Vessel/Flight No",
    "length": 0,
@@ -3099,59 +4065,7 @@
    "modified": "2022-04-12 16:58:58.269381",
    "modified_by": "Administrator",
    "name": "Sales Invoice-vessel_flight_no",
-   "no_copy": 0,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 1,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2022-04-12 16:58:58.896649",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "city_port_of_loading",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 48,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
+=======
    "insert_after": "vessel_flight_no",
    "label": "City Port of Loading",
    "length": 0,
@@ -3159,6 +4073,7 @@
    "modified": "2022-04-12 16:58:58.896649",
    "modified_by": "Administrator",
    "name": "Sales Invoice-city_port_of_loading",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3191,7 +4106,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:58:58.896649",
+=======
    "creation": "2022-04-12 16:59:43.873643",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3199,19 +4118,36 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "city_port_of_loading",
+=======
    "fieldname": "place_of_receipt_by_shipper",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 49,
+<<<<<<< HEAD
+   "idx": 48,
+=======
+   "idx": 50,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "vessel_flight_no",
+   "label": "City Port of Loading",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:58:58.896649",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-city_port_of_loading",
+=======
    "insert_after": "city_port_of_loading",
    "label": "Place of Receipt by Shipper",
    "length": 0,
@@ -3219,6 +4155,7 @@
    "modified": "2022-04-12 16:59:43.873643",
    "modified_by": "Administrator",
    "name": "Sales Invoice-place_of_receipt_by_shipper",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3251,7 +4188,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:59:43.873643",
+=======
    "creation": "2022-04-12 16:59:56.619092",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3259,19 +4200,36 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "place_of_receipt_by_shipper",
+=======
    "fieldname": "city_port_of_discharge",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 50,
+<<<<<<< HEAD
+   "idx": 49,
+=======
+   "idx": 51,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "city_port_of_loading",
+   "label": "Place of Receipt by Shipper",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:59:43.873643",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-place_of_receipt_by_shipper",
+=======
    "insert_after": "place_of_receipt_by_shipper",
    "label": "City/Port of Discharge",
    "length": 0,
@@ -3279,6 +4237,7 @@
    "modified": "2022-04-12 16:59:56.619092",
    "modified_by": "Administrator",
    "name": "Sales Invoice-city_port_of_discharge",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3311,7 +4270,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-12 16:59:56.619092",
+=======
    "creation": "2022-04-13 09:18:50.411909",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3319,19 +4282,36 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "city_port_of_discharge",
+=======
    "fieldname": "g_r_no_",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "fieldtype": "Data",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 45,
+<<<<<<< HEAD
+   "idx": 50,
+=======
+   "idx": 46,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "place_of_receipt_by_shipper",
+   "label": "City/Port of Discharge",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-12 16:59:56.619092",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-city_port_of_discharge",
+=======
    "insert_after": "despatch_through",
    "label": "G.R No. ",
    "length": 0,
@@ -3339,6 +4319,7 @@
    "modified": "2022-04-13 09:18:50.411909",
    "modified_by": "Administrator",
    "name": "Sales Invoice-g_r_no_",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3371,7 +4352,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-13 09:18:50.411909",
+=======
    "creation": "2022-04-13 09:19:21.210452",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3379,8 +4364,95 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "g_r_no_",
+=======
+   "fieldname": "g_r_no_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "fieldtype": "Data",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 45,
+=======
+   "idx": 53,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "despatch_through",
+   "label": "G.R No. ",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-13 09:18:50.411909",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-g_r_no_",
+=======
+   "insert_after": "gr_no_date",
+   "label": "G.R No. Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-13 09:19:21.210452",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-g_r_no_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-13 09:19:21.210452",
+=======
+   "creation": "2022-04-13 15:31:25.037173",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "g_r_no_date",
    "fieldtype": "Data",
+=======
+   "fieldname": "gr_no_date",
+   "fieldtype": "Date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
@@ -3392,6 +4464,7 @@
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "gr_no_date",
    "label": "G.R No. Date",
    "length": 0,
@@ -3399,59 +4472,7 @@
    "modified": "2022-04-13 09:19:21.210452",
    "modified_by": "Administrator",
    "name": "Sales Invoice-g_r_no_date",
-   "no_copy": 0,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 1,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2022-04-13 15:31:25.037173",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "gr_no_date",
-   "fieldtype": "Date",
-   "hidden": 0,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 51,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
+=======
    "insert_after": "city_port_of_discharge",
    "label": "GR No Date",
    "length": 0,
@@ -3459,6 +4480,7 @@
    "modified": "2022-04-13 15:31:25.037173",
    "modified_by": "Administrator",
    "name": "Sales Invoice-gr_no_date",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3491,7 +4513,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-13 15:31:25.037173",
+=======
    "creation": "2022-04-13 17:30:16.746719",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3499,9 +4525,99 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "gr_no_date",
+   "fieldtype": "Date",
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 51,
+=======
    "fieldname": "ts_tax_breakup",
    "fieldtype": "Section Break",
    "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 120,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "city_port_of_discharge",
+   "label": "GR No Date",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-13 15:31:25.037173",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-gr_no_date",
+=======
+   "insert_after": "total_taxes_and_charges",
+   "label": "Tax Breakup GST",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-13 17:30:16.746719",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ts_tax_breakup",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-13 17:30:16.746719",
+=======
+   "creation": "2022-04-13 17:30:17.560643",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "ts_tax_breakup",
+   "fieldtype": "Section Break",
+   "hidden": 1,
+=======
+   "fieldname": "ts_tax_breakup_table",
+   "fieldtype": "Table",
+   "hidden": 0,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
@@ -3512,6 +4628,7 @@
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "total_taxes_and_charges",
    "label": "Tax Breakup GST",
    "length": 0,
@@ -3522,6 +4639,18 @@
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
+=======
+   "insert_after": "ts_tax_breakup",
+   "label": "Tax Breakup GST Table",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-13 17:30:17.560643",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ts_tax_breakup_table",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": "TS Tax Breakup",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3551,7 +4680,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-13 17:30:17.560643",
+=======
+   "creation": "2022-04-18 10:49:06.665837",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3559,9 +4692,15 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ts_tax_breakup_table",
    "fieldtype": "Table",
    "hidden": 0,
+=======
+   "fieldname": "ts_tax_breakup_hsn",
+   "fieldtype": "Section Break",
+   "hidden": 1,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
@@ -3572,6 +4711,7 @@
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "ts_tax_breakup",
    "label": "Tax Breakup GST Table",
    "length": 0,
@@ -3582,6 +4722,18 @@
    "no_copy": 0,
    "non_negative": 0,
    "options": "TS Tax Breakup",
+=======
+   "insert_after": "ts_tax_breakup_table",
+   "label": "Tax Breakup HSN",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-18 10:49:06.665837",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ts_tax_breakup_hsn",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3611,7 +4763,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-04-18 10:49:06.665837",
+=======
+   "creation": "2022-04-18 10:49:40.531520",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3619,8 +4775,13 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ts_tax_breakup_hsn",
    "fieldtype": "Section Break",
+=======
+   "fieldname": "ts_tax_breakup_gst_table",
+   "fieldtype": "Table",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
@@ -3632,6 +4793,7 @@
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "ts_tax_breakup_table",
    "label": "Tax Breakup HSN",
    "length": 0,
@@ -3639,66 +4801,15 @@
    "modified": "2022-04-18 10:49:06.665837",
    "modified_by": "Administrator",
    "name": "Sales Invoice-ts_tax_breakup_hsn",
-   "no_copy": 0,
-   "non_negative": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "read_only_depends_on": null,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 0,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_in_quick_entry": 0,
-   "allow_on_submit": 1,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2022-04-18 10:49:40.531520",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Invoice",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "ts_tax_breakup_gst_table",
-   "fieldtype": "Table",
-   "hidden": 0,
-   "hide_border": 0,
-   "hide_days": 0,
-   "hide_seconds": 0,
-   "idx": 124,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_preview": 0,
-   "in_standard_filter": 0,
+=======
    "insert_after": "ts_tax_breakup_hsn",
-   "label": "Tax Breakup GST Table",
+   "label": "Tax Breakup HSN Table",
    "length": 0,
    "mandatory_depends_on": null,
    "modified": "2022-04-18 10:49:40.531520",
    "modified_by": "Administrator",
    "name": "Sales Invoice-ts_tax_breakup_gst_table",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": "TS Tax Breakup HSN",
@@ -3731,7 +4842,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-04-18 10:49:40.531520",
+=======
    "creation": "2022-05-16 15:25:55.021193",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3739,19 +4854,40 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "ts_tax_breakup_gst_table",
+   "fieldtype": "Table",
+=======
    "fieldname": "get_gst",
    "fieldtype": "Button",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 24,
+<<<<<<< HEAD
+   "idx": 124,
+=======
+   "idx": 25,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "ts_tax_breakup_hsn",
+   "label": "Tax Breakup GST Table",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-04-18 10:49:40.531520",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-ts_tax_breakup_gst_table",
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": "TS Tax Breakup HSN",
+=======
    "insert_after": "company_tax_id",
    "label": "Get GST",
    "length": 0,
@@ -3762,6 +4898,7 @@
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3791,7 +4928,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-05-16 15:25:55.021193",
+=======
    "creation": "2022-05-16 15:26:55.043558",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3799,19 +4940,38 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
-   "fieldname": "gst",
-   "fieldtype": "Data",
+<<<<<<< HEAD
+   "fieldname": "get_gst",
+   "fieldtype": "Button",
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
-   "idx": 25,
+   "idx": 24,
+=======
+   "fieldname": "gst",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+   "idx": 26,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "company_tax_id",
+   "label": "Get GST",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-05-16 15:25:55.021193",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-get_gst",
+=======
    "insert_after": "get_gst",
    "label": "GST",
    "length": 0,
@@ -3819,6 +4979,90 @@
    "modified": "2022-05-16 15:26:55.043558",
    "modified_by": "Administrator",
    "name": "Sales Invoice-gst",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "no_copy": 0,
+   "non_negative": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "read_only_depends_on": null,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_in_quick_entry": 0,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2022-05-16 15:26:55.043558",
+=======
+   "creation": "2022-05-27 16:49:50.237392",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Invoice",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "gst",
+   "fieldtype": "Data",
+=======
+   "fieldname": "column_break_107",
+   "fieldtype": "Column Break",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "hidden": 0,
+   "hide_border": 0,
+   "hide_days": 0,
+   "hide_seconds": 0,
+<<<<<<< HEAD
+   "idx": 25,
+=======
+   "idx": 108,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_preview": 0,
+   "in_standard_filter": 0,
+<<<<<<< HEAD
+   "insert_after": "get_gst",
+   "label": "GST",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-05-16 15:26:55.043558",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-gst",
+=======
+   "insert_after": "taxes_and_charges",
+   "label": null,
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-05-27 16:49:50.237392",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-column_break_107",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
    "options": null,
@@ -3851,7 +5095,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2022-05-27 16:49:50.237392",
+=======
+   "creation": "2022-06-03 11:02:37.385425",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3859,19 +5107,29 @@
    "dt": "Sales Invoice",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "column_break_107",
    "fieldtype": "Column Break",
+=======
+   "fieldname": "sales_invoice_group",
+   "fieldtype": "Link",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "hidden": 0,
    "hide_border": 0,
    "hide_days": 0,
    "hide_seconds": 0,
+<<<<<<< HEAD
    "idx": 108,
+=======
+   "idx": 12,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_preview": 0,
    "in_standard_filter": 0,
+<<<<<<< HEAD
    "insert_after": "taxes_and_charges",
    "label": null,
    "length": 0,
@@ -3879,9 +5137,18 @@
    "modified": "2022-05-27 16:49:50.237392",
    "modified_by": "Administrator",
    "name": "Sales Invoice-column_break_107",
+=======
+   "insert_after": "customer_name",
+   "label": "Sales Invoice Group",
+   "length": 0,
+   "mandatory_depends_on": null,
+   "modified": "2022-06-03 11:02:37.385425",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-sales_invoice_group",
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "no_copy": 0,
    "non_negative": 0,
-   "options": null,
+   "options": "Sales Invoice Group",
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3894,7 +5161,7 @@
    "read_only": 0,
    "read_only_depends_on": null,
    "report_hide": 0,
-   "reqd": 0,
+   "reqd": 1,
    "search_index": 0,
    "translatable": 0,
    "unique": 0,
@@ -4114,6 +5381,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2022-05-18 14:39:54.384157",
    "default_value": null,
    "doc_type": "Sales Invoice",
@@ -4186,6 +5454,8 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+=======
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "creation": "2022-04-05 13:14:39.573090",
    "default_value": null,
    "doc_type": "Sales Invoice",
@@ -4426,6 +5696,33 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
+=======
+   "creation": "2022-04-05 13:14:24.318862",
+   "default_value": null,
+   "doc_type": "Sales Invoice",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "naming_series",
+   "idx": 0,
+   "modified": "2022-04-05 13:14:24.318862",
+   "modified_by": "Administrator",
+   "name": "Sales Invoice-naming_series-options",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "options",
+   "property_type": "",
+   "row_name": null,
+   "value": "SINV-.YY.-\nSRET-.YY.-\n\nACC-SINV-.YYYY.-\nACC-SINV-RET-.YYYY.-"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+>>>>>>> 5bf17b09e0f8a20deea1ca8937a4940fe89fafbb
    "creation": "2022-04-05 12:31:02.361094",
    "default_value": null,
    "doc_type": "Sales Invoice",
