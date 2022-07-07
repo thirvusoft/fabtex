@@ -31,7 +31,7 @@ app_license = "MIT"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {"Sales Invoice" : "fabtex/custom/js/sales_invoice.js"}
+doctype_js = {"Sales Invoice": "fabtex/custom/js/sales_invoice.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
@@ -57,7 +57,7 @@ doctype_js = {"Sales Invoice" : "fabtex/custom/js/sales_invoice.js"}
 # ------------
 
 # before_install = "fabtex.install.before_install"
-# after_install = "fabtex.install.after_install"
+after_install = "fabtex.utils.after_install.after_install"
 
 # Desk Notifications
 # ------------------
@@ -146,24 +146,24 @@ doctype_js = {"Sales Invoice" : "fabtex/custom/js/sales_invoice.js"}
 # --------------------
 
 user_data_fields = [
-	{
-		"doctype": "{doctype_1}",
-		"filter_by": "{filter_by}",
-		"redact_fields": ["{field_1}", "{field_2}"],
-		"partial": 1,
-	},
-	{
-		"doctype": "{doctype_2}",
-		"filter_by": "{filter_by}",
-		"partial": 1,
-	},
-	{
-		"doctype": "{doctype_3}",
-		"strict": False,
-	},
-	{
-		"doctype": "{doctype_4}"
-	}
+    {
+        "doctype": "{doctype_1}",
+        "filter_by": "{filter_by}",
+        "redact_fields": ["{field_1}", "{field_2}"],
+        "partial": 1,
+    },
+    {
+        "doctype": "{doctype_2}",
+        "filter_by": "{filter_by}",
+        "partial": 1,
+    },
+    {
+        "doctype": "{doctype_3}",
+        "strict": False,
+    },
+    {
+        "doctype": "{doctype_4}"
+    }
 ]
 
 # Authentication and authorization
@@ -172,4 +172,3 @@ user_data_fields = [
 # auth_hooks = [
 # 	"fabtex.auth.validate"
 # ]
-
