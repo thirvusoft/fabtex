@@ -20,7 +20,7 @@ def sales_invoice_custom_field():
             dict(fieldname='e_way_bill_number', label='E-Way Bill Number',
                 fieldtype='Int', insert_after='e_way_bill'),
             dict(fieldname='ts_mode_of_transport', label='Mode of Transport',
-                fieldtype='Select', insert_after='e_way_bill_number', options="Road\nShip\nRail\nAir"),
+                fieldtype='Select', insert_after='e_way_bill_number', options="\nRoad\nShip\nRail\nAir"),
             dict(fieldname='transporter_name_', label='Transporter Name',
                 fieldtype='Data', insert_after='ts_mode_of_transport'),
             dict(fieldname='transporter_id', label='Transporter ID',
