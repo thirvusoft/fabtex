@@ -18,7 +18,7 @@ def sales_invoice_custom_field():
             dict(fieldname='e_way_bill', label='E-Way Bill',
                 fieldtype='Section Break', insert_after='ts_tax_breakup_gst_table'),
             dict(fieldname='e_way_bill_number', label='E-Way Bill Number',
-                fieldtype='Int', insert_after='e_way_bill'),
+                fieldtype='Data', insert_after='e_way_bill'),
             dict(fieldname='ts_mode_of_transport', label='Mode of Transport',
                 fieldtype='Select', insert_after='e_way_bill_number', options="\nRoad\nShip\nRail\nAir"),
             dict(fieldname='transporter_name_', label='Transporter Name',
