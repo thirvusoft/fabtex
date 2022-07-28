@@ -28,7 +28,7 @@ def sales_invoice_custom_field():
             dict(fieldname='column_break_00', label='',
                 fieldtype='Column Break', insert_after='transporter_id'),
             dict(fieldname='vehicle_number', label='Vehicle Number',
-                fieldtype='Link', insert_after='column_break_00', options="Vehicle"),
+                fieldtype='Data', insert_after='column_break_00'),
             dict(fieldname='ts_distance', label='Distance',
                 fieldtype='Float', insert_after='vehicle_number'),
             dict(fieldname='vehicle_type', label='Vehicle Type',
