@@ -1,1 +1,1 @@
-fabtex.utils.accounts.sales_invoice
+fabtex.utils.sales_invoice_patch
