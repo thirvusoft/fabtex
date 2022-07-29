@@ -57,7 +57,7 @@ doctype_js = {"Sales Invoice": "fabtex/custom/js/sales_invoice.js"}
 # ------------
 
 # before_install = "fabtex.install.before_install"
-# after_install = "fabtex.utils.after_install.after_install"
+after_install = "fabtex.utils.after_install.after_install"
 
 # Desk Notifications
 # ------------------
