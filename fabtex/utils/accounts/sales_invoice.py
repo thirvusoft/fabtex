@@ -8,10 +8,8 @@ def sales_invoice():
 
 def sales_invoice_property_setter():
 
-    prop = make_property_setter(
+    make_property_setter(
         "Sales Invoice", "einvoice_section", "hidden", 0, "Check")
-    frappe.db.commit()
-
 def sales_invoice_custom_field():
     custom_fields={
         "Sales Invoice":[
